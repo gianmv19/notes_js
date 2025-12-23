@@ -60,7 +60,7 @@ header {
 }
 
 .add-note-btn:hover {
-  background: #7a7fff;
+  background: #bf2b2b;
 }
 
 .theme-toggle-btn {
@@ -285,4 +285,5 @@ dialog::backdrop {
   font-size: 1rem;
   margin-bottom: 2rem;
 }
+
 
