@@ -7,7 +7,7 @@
 }
 
 :root {
-  --brand-color: #8b90ff;
+  --brand-color: #df5e5e;
   --base-color: #f2f4f8;
   --surface-color: #fff;
   --text-color: #191b23;
@@ -17,7 +17,7 @@
 }
 
 .dark-theme {
-  --brand-color: #8b90ff;
+  --brand-color: #f23141;
   --base-color: #1e1f26;
   --surface-color: #2c2f38;
   --text-color: #f0f0f0;
@@ -285,3 +285,4 @@ dialog::backdrop {
   font-size: 1rem;
   margin-bottom: 2rem;
 }
+
